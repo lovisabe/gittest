@@ -7,3 +7,4 @@ This is a cool project
 Isn't that nice?
 
 This is something new.
+
