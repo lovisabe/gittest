@@ -1,12 +1,12 @@
-# Sweet New Project
+# New Project
 
-This is a cool project
+This is a project
 
 ## This is a heading2
 
 ## Index.html
 
-This document
+This file is the html.
 
 ## Style.css
 
