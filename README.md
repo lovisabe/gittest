@@ -6,5 +6,6 @@ This is a cool project
 
 Isn't that nice?
 
-This is something new.
+New.
 
+Here is th even newer.
