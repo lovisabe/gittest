@@ -4,8 +4,10 @@ This is a cool project
 
 ## This is a heading2
 
-Isn't that nice?
+## Index.html
 
-New.
+This document
 
-Here is th even newer.
+## Style.css
+
+This document is our project style guide.
