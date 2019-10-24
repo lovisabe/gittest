@@ -1,6 +1,6 @@
 # New Project
 
-This is a project.
+This is a project. Check it out at [here](https://lovisabe.github.io/gittest/).
 
 ## Index.html
 
