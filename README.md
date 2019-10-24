@@ -1,12 +1,10 @@
 # New Project
 
-This is a project
-
-## This is a heading2
+This is a project.
 
 ## Index.html
 
-This file is the html.
+This file is the default html document of the folder.
 
 ## Style.css
 
